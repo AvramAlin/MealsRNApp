@@ -15,6 +15,7 @@ This is a **React Native App** built for both **iOS and Android** platforms. It 
 - React Native
 - React Navigation
 - Expo
+- React Context API
 
 ## Features
 
